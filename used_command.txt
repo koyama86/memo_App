@@ -1,0 +1,5 @@
+npm init -y
+npm i -D typescript
+npm tsc --init
+npm i -D ts-loder
+npm i -D webpack webpack-cli webpack-dev-server
